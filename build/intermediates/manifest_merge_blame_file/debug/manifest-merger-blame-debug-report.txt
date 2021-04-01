@@ -1,0 +1,57 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.kakao.talk.theme.template"
+4    android:versionCode="100"
+5    android:versionName="1.0.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->D:\Projects\hanyang-ktheme-android\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->D:\Projects\hanyang-ktheme-android\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="com.kakao.talk.v2.theme" />
+11-->D:\Projects\hanyang-ktheme-android\src\main\AndroidManifest.xml:5:5-63
+11-->D:\Projects\hanyang-ktheme-android\src\main\AndroidManifest.xml:5:22-60
+12
+13    <application
+13-->D:\Projects\hanyang-ktheme-android\src\main\AndroidManifest.xml:7:5-26:19
+14        android:allowBackup="true"
+14-->D:\Projects\hanyang-ktheme-android\src\main\AndroidManifest.xml:8:9-35
+15        android:debuggable="true"
+16        android:icon="@mipmap/ic_launcher"
+16-->D:\Projects\hanyang-ktheme-android\src\main\AndroidManifest.xml:9:9-43
+17        android:label="@string/app_name"
+17-->D:\Projects\hanyang-ktheme-android\src\main\AndroidManifest.xml:10:9-41
+18        android:testOnly="true" >
+19        <meta-data
+19-->D:\Projects\hanyang-ktheme-android\src\main\AndroidManifest.xml:12:9-14:35
+20            android:name="android.max_aspect"
+20-->D:\Projects\hanyang-ktheme-android\src\main\AndroidManifest.xml:13:13-46
+21            android:value="2.1" />
+21-->D:\Projects\hanyang-ktheme-android\src\main\AndroidManifest.xml:14:13-32
+22
+23        <activity
+23-->D:\Projects\hanyang-ktheme-android\src\main\AndroidManifest.xml:16:9-25:20
+24            android:name="com.kakao.talk.theme.hanyang.MainActivity"
+24-->D:\Projects\hanyang-ktheme-android\src\main\AndroidManifest.xml:17:13-41
+25            android:excludeFromRecents="true"
+25-->D:\Projects\hanyang-ktheme-android\src\main\AndroidManifest.xml:20:13-46
+26            android:launchMode="singleTop"
+26-->D:\Projects\hanyang-ktheme-android\src\main\AndroidManifest.xml:18:13-43
+27            android:theme="@style/noAnimTheme" >
+27-->D:\Projects\hanyang-ktheme-android\src\main\AndroidManifest.xml:19:13-47
+28            <intent-filter>
+28-->D:\Projects\hanyang-ktheme-android\src\main\AndroidManifest.xml:21:13-24:29
+29                <action android:name="android.intent.action.MAIN" />
+29-->D:\Projects\hanyang-ktheme-android\src\main\AndroidManifest.xml:22:17-69
+29-->D:\Projects\hanyang-ktheme-android\src\main\AndroidManifest.xml:22:25-66
+30
+31                <category android:name="android.intent.category.LAUNCHER" />
+31-->D:\Projects\hanyang-ktheme-android\src\main\AndroidManifest.xml:23:17-77
+31-->D:\Projects\hanyang-ktheme-android\src\main\AndroidManifest.xml:23:27-74
+32            </intent-filter>
+33        </activity>
+34    </application>
+35
+36</manifest>

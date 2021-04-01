@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Projects\\hanyang-ktheme-android\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ko\\values-ko.xml",
+            "map": [
+                {
+                    "source": "D:\\Projects\\hanyang-ktheme-android\\src\\main\\theme\\values-ko\\strings.xml",
+                    "from": {
+                        "startLines": "3,2",
+                        "startColumns": "4,4",
+                        "startOffsets": "99,55",
+                        "endColumns": "46,43",
+                        "endOffsets": "141,94"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,102",
+                        "endColumns": "46,43",
+                        "endOffsets": "97,141"
+                    }
+                }
+            ]
+        }
+    ]
+}

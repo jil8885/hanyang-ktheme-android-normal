@@ -1,0 +1,75 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Projects\hanyang-ktheme-android\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from D:\Projects\hanyang-ktheme-android\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from D:\Projects\hanyang-ktheme-android\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from D:\Projects\hanyang-ktheme-android\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from D:\Projects\hanyang-ktheme-android\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from D:\Projects\hanyang-ktheme-android\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from D:\Projects\hanyang-ktheme-android\src\main\AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from D:\Projects\hanyang-ktheme-android\src\main\AndroidManifest.xml:3:5-43
+		INJECTED from D:\Projects\hanyang-ktheme-android\src\main\AndroidManifest.xml
+		INJECTED from D:\Projects\hanyang-ktheme-android\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Projects\hanyang-ktheme-android\src\main\AndroidManifest.xml
+		ADDED from D:\Projects\hanyang-ktheme-android\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from D:\Projects\hanyang-ktheme-android\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Projects\hanyang-ktheme-android\src\main\AndroidManifest.xml
+		ADDED from D:\Projects\hanyang-ktheme-android\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from D:\Projects\hanyang-ktheme-android\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Projects\hanyang-ktheme-android\src\main\AndroidManifest.xml:2:11-69
+uses-permission#com.kakao.talk.v2.theme
+ADDED from D:\Projects\hanyang-ktheme-android\src\main\AndroidManifest.xml:5:5-63
+	android:name
+		ADDED from D:\Projects\hanyang-ktheme-android\src\main\AndroidManifest.xml:5:22-60
+application
+ADDED from D:\Projects\hanyang-ktheme-android\src\main\AndroidManifest.xml:7:5-26:19
+	android:label
+		ADDED from D:\Projects\hanyang-ktheme-android\src\main\AndroidManifest.xml:10:9-41
+	android:icon
+		ADDED from D:\Projects\hanyang-ktheme-android\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from D:\Projects\hanyang-ktheme-android\src\main\AndroidManifest.xml:8:9-35
+meta-data#android.max_aspect
+ADDED from D:\Projects\hanyang-ktheme-android\src\main\AndroidManifest.xml:12:9-14:35
+	android:value
+		ADDED from D:\Projects\hanyang-ktheme-android\src\main\AndroidManifest.xml:14:13-32
+	android:name
+		ADDED from D:\Projects\hanyang-ktheme-android\src\main\AndroidManifest.xml:13:13-46
+activity#com.kakao.talk.theme.hanyang.MainActivity
+ADDED from D:\Projects\hanyang-ktheme-android\src\main\AndroidManifest.xml:16:9-25:20
+	android:excludeFromRecents
+		ADDED from D:\Projects\hanyang-ktheme-android\src\main\AndroidManifest.xml:20:13-46
+	android:launchMode
+		ADDED from D:\Projects\hanyang-ktheme-android\src\main\AndroidManifest.xml:18:13-43
+	android:theme
+		ADDED from D:\Projects\hanyang-ktheme-android\src\main\AndroidManifest.xml:19:13-47
+	android:name
+		ADDED from D:\Projects\hanyang-ktheme-android\src\main\AndroidManifest.xml:17:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Projects\hanyang-ktheme-android\src\main\AndroidManifest.xml:21:13-24:29
+action#android.intent.action.MAIN
+ADDED from D:\Projects\hanyang-ktheme-android\src\main\AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from D:\Projects\hanyang-ktheme-android\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Projects\hanyang-ktheme-android\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from D:\Projects\hanyang-ktheme-android\src\main\AndroidManifest.xml:23:27-74
+uses-sdk
+INJECTED from D:\Projects\hanyang-ktheme-android\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Projects\hanyang-ktheme-android\src\main\AndroidManifest.xml
+INJECTED from D:\Projects\hanyang-ktheme-android\src\main\AndroidManifest.xml
+INJECTED from D:\Projects\hanyang-ktheme-android\src\main\AndroidManifest.xml
+INJECTED from D:\Projects\hanyang-ktheme-android\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Projects\hanyang-ktheme-android\src\main\AndroidManifest.xml
+		ADDED from D:\Projects\hanyang-ktheme-android\src\main\AndroidManifest.xml
+		INJECTED from D:\Projects\hanyang-ktheme-android\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Projects\hanyang-ktheme-android\src\main\AndroidManifest.xml
+		ADDED from D:\Projects\hanyang-ktheme-android\src\main\AndroidManifest.xml
+		INJECTED from D:\Projects\hanyang-ktheme-android\src\main\AndroidManifest.xml

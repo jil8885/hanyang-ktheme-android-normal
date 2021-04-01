@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="actionButtonBorderColor">#24000000</color>
+    <color name="actionButtonPressedColor">#F6F6F6</color>
+    <color name="statusBarColor">#FFFFFF</color>
+    <color name="theme_background_color">#0E4A84</color>
+    <color name="theme_body_cell_border_color">#26664242</color>
+    <color name="theme_body_cell_color">#00FFDEDE</color>
+    <color name="theme_body_cell_pressed_color">#898C8E</color>
+    <color name="theme_body_secondary_cell_color">#FFFFFF</color>
+    <color name="theme_chatroom_background_color">#0E4A84</color>
+    <color name="theme_chatroom_bubble_me_color">#FFFFFF</color>
+    <color name="theme_chatroom_bubble_you_color">#4D4D4D</color>
+    <color name="theme_chatroom_input_bar_background_color">#FFFFFF</color>
+    <color name="theme_chatroom_input_bar_color">#000000</color>
+    <color name="theme_chatroom_input_bar_menu_icon_color">#0E4A84</color>
+    <color name="theme_chatroom_input_bar_send_button_color">#0E4A84</color>
+    <color name="theme_chatroom_input_bar_send_icon_color">#0E4A84</color>
+    <color name="theme_chatroom_unread_count_color">#0E4A84</color>
+    <color name="theme_description_color">#0E4A84</color>
+    <color name="theme_description_pressed_color">#FFFFFF</color>
+    <color name="theme_direct_share_background_color">#FFF2F2</color>
+    <color name="theme_direct_share_button_color">#E87D7D</color>
+    <color name="theme_direct_share_color">#664242</color>
+    <color name="theme_feature_browse_tab_color">#0E4A84</color>
+    <color name="theme_feature_browse_tab_focused_color">#FFFFFF</color>
+    <color name="theme_feature_primary_color">#0E4A84</color>
+    <color name="theme_feature_primary_pressed_color">#FFFFFF</color>
+    <color name="theme_header_cell_color">#FFFFFF</color>
+    <color name="theme_header_color">#0E4A84</color>
+    <color name="theme_maintab_cell_color">#00FFFFFF</color>
+    <color name="theme_notification_background_color">#FFD4D4</color>
+    <color name="theme_notification_background_pressed_color">#FFB3B3</color>
+    <color name="theme_notification_color">#664242</color>
+    <color name="theme_paragraph_color">#0E4A84</color>
+    <color name="theme_paragraph_pressed_color">#FFFFFF</color>
+    <color name="theme_passcode_background_color">#0E4A84</color>
+    <color name="theme_passcode_color">#0E4A84</color>
+    <color name="theme_passcode_keypad_background_color">#0E4A84</color>
+    <color name="theme_passcode_keypad_color">#FFFFFF</color>
+    <color name="theme_passcode_keypad_pressed_background_color">#7F0E4A84</color>
+    <color name="theme_passcode_keypad_pressed_color">#898C8E</color>
+    <color name="theme_passcode_pattern_line_color">#FCC5C5</color>
+    <color name="theme_section_title_color">#0E4A84</color>
+    <color name="theme_tab_bannerbadge_background_color">#664142</color>
+    <color name="theme_title_color">#0E4A84</color>
+    <color name="theme_title_pressed_color">#FFFFFF</color>
+    <string name="app_name">하냥이 카톡 테마</string>
+    <string name="apply">테마 적용하기</string>
+    <string name="install_kakaotalk">카톡 설치하기</string>
+    <string name="theme_title">하냥이</string>
+    <style name="noAnimTheme" parent="android:Theme.NoTitleBar">
+        <item name="android:windowAnimationStyle">@null</item>
+    </style>
+</resources>

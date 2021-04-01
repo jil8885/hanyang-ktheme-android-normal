@@ -1,0 +1,2 @@
+com/kakao/talk/theme/hanyang/BuildConfig.java
+ com.kakao.talk.theme.hanyang.BuildConfig
