@@ -89,7 +89,7 @@
     <!-- Chat Bubble -->
 
     <!-- Me -->
-    <color name="theme_chatroom_bubble_me_color">#FFFFFF</color>
+    <color name="theme_chatroom_bubble_me_color">#000000</color>
 
     <!-- You -->
     <color name="theme_chatroom_bubble_you_color">#FFFFFF</color>
