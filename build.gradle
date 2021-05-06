@@ -37,7 +37,7 @@ android {
 
         versionName "1.0.0"
         versionCode 100
-        applicationId "com.kakao.talk.theme.hanyang.normal"
+        applicationId "com.kakao.talk.theme.hanyang.letter"
 
         sourceSets {
             main.res.srcDirs += 'src/main/theme'

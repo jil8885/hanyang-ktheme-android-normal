@@ -1,4 +1,4 @@
-package com.kakao.talk.theme.hanyang.normal
+package com.kakao.talk.theme.hanyang.letter
 
 import android.app.Activity
 import android.content.Intent
