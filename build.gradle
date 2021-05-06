@@ -4,7 +4,7 @@ buildscript {
         google()
     }
     dependencies {
-        classpath 'com.android.tools.build:gradle:4.1.0'
+        classpath 'com.android.tools.build:gradle:4.2.0'
         classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:1.4.10"
     }
 }
@@ -20,12 +20,20 @@ apply plugin: 'com.android.application'
 apply plugin: 'kotlin-android'
 apply plugin: 'kotlin-android-extensions'
 android {
-    compileSdkVersion 29
-    buildToolsVersion "29.0.3"
+    signingConfigs {
+        'default' {
+            storeFile file('Y:\\Auth\\APK SIGN\\hyuabot_sign.jks')
+            storePassword 'a981212'
+            keyAlias 'jil8885'
+            keyPassword 'a981212'
+        }
+    }
+    compileSdkVersion 30
+    buildToolsVersion "31.0.0-rc3"
 
     defaultConfig {
         minSdkVersion 21
-        targetSdkVersion 29
+        targetSdkVersion 30
 
         versionName "1.0.0"
         versionCode 100
@@ -35,5 +43,6 @@ android {
             main.res.srcDirs += 'src/main/theme'
             main.res.srcDirs += 'src/main/theme-adv'
         }
+        signingConfig signingConfigs.'default'
     }
 }
